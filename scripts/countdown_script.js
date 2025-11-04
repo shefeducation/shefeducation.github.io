@@ -32,4 +32,4 @@ function startCountdown(targetDate, elementId) {
 
 
   // Start the countdowns
-  startCountdown(launchDate, "discountTimer");
+  startCountdown(launchDate, "launchDateTimer");
